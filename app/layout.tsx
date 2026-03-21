@@ -21,15 +21,15 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       {
-        url: '/Wedding-intials-logo-dark-1.png',
+        url: '/HomeScreen-light.png',
         media: '(prefers-color-scheme: light)',
       },
       {
-        url: '/Wedding-intials-logo-dark-1.png',
+        url: '/HomeScreen-light.png',
         media: '(prefers-color-scheme: dark)',
       },
     ],
-    apple: '/Wedding-intials-logo-dar-APPLE.png',
+    apple: '/HomeScreen-light.png',
   },
 }
 
